@@ -56,6 +56,7 @@ Install [Npcap](https://nmap.org/npcap/) and enable the option:
 Scapy uses `libpcap` by default, no additional installation is required.
 
 ---
+<img width="890" height="709" alt="image" src="https://github.com/user-attachments/assets/a10c164e-8b4f-4715-8582-00f3223b4308" />
 
 ### 1. Create a Virtual Environment
 
