@@ -56,7 +56,6 @@ Install [Npcap](https://nmap.org/npcap/) and enable the option:
 Scapy uses `libpcap` by default, no additional installation is required.
 
 ---
-<img width="890" height="709" alt="image" src="https://github.com/user-attachments/assets/a10c164e-8b4f-4715-8582-00f3223b4308" />
 
 ### 1. Create a Virtual Environment
 
@@ -148,10 +147,8 @@ Top protocol: TCP
 - DNS queries
 - Packets-per-second timeline chart
 
-**CSV Export:**
-```
-packet_summary_210530.csv
-```
+<img width="1920" height="1200" alt="EnhancedSnifferBoard" src="https://github.com/user-attachments/assets/856c09ac-2bfd-428a-bbd3-ee6763ad5901" />
+
 
 ---
 
