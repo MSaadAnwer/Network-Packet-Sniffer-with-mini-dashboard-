@@ -2,7 +2,7 @@
 
 This project is a Python-based network packet sniffer that visualizes live network traffic using Scapy and Streamlit.  
 It captures packets from a specified network interface, analyzes protocol distributions, and provides real-time dashboards and CSV export capabilities.  
-The application serves as a simplified, educational equivalent to Wireshark for traffic monitoring and cybersecurity demonstrations.
+The application serves as a simplified equivalent to Wireshark for traffic monitoring and cybersecurity demonstrations.
 
 ---
 
